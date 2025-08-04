@@ -28,4 +28,4 @@ This is my first ever graded portfolio, built it using only HTML and CSS. It's d
  I learned how to structure semantic HTML, styling and to deploy my work online which is something i am immensely proud of.
 
  ## Live Site
- View site here : [comfort-portfolio](https://parakletoslight.github.io/comfort-portfolio)
+ View site here : [comfort-portfolio](http://127.0.0.1:5500/index.html)
